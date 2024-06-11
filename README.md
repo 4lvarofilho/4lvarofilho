@@ -37,7 +37,7 @@
 
 ###
 
-<div align="center">
+<div align="center" display:flex>
   <img src="https://streak-stats.demolab.com?user=4lvarofilho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lvarofilho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="most used languages card"
 </div>
