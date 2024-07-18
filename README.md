@@ -40,7 +40,7 @@
 
 <div align="center" display:flex>
   <img src="https://streak-stats.demolab.com?user=4lvarofilho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width="400" alt="streak graph"  />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lvarofilho)](https://github.com/4lvarofilho/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lvarofilho"/>
 </div>
 
 ###
