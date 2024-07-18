@@ -19,7 +19,7 @@
 <h3 align="left">🛠 Languages and tools</h3>
 
 ###
-
+--
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
   <a href="https://www.typescriptlang.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
@@ -41,7 +41,7 @@
 
 <div align="center" display:flex>
   <img src="https://streak-stats.demolab.com?user=4lvarofilho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width="400" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lvarofilho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width="230" alt="most used languages card" />
+  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=4lvarofilho)](https://github.com/4lvarofilho/github-readme-stats)&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width="230" alt="most used languages card" />
 </div>
 
 ###
