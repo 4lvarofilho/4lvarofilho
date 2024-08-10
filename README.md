@@ -20,16 +20,16 @@
 
 ###
 <div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
-  <a href="https://www.typescriptlang.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
-  <a href="https://nodejs.org/en" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <a href="https://expressjs.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="40" />
-  <a href="https://react.dev/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
-  <a href="https://angular.dev/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" />
-  <a href="https://git-scm.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
-  <a href="https://www.mysql.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" />         
-  <a href="https://www.w3schools.com/html/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" />
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" />    
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" alt="JavaScript" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
+  <a href="https://www.typescriptlang.org/" alt="TypeScript" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
+  <a href="https://nodejs.org/en" alt="Node.js" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <a href="https://expressjs.com/" alt="Express.js" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="40" />
+  <a href="https://react.dev/" alt="React" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
+  <a href="https://angular.dev/" alt="Angular" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" />
+  <a href="https://git-scm.com/" alt="Git" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
+  <a href="https://www.mysql.com/" alt="MySQL" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" />         
+  <a href="https://www.w3schools.com/html/" alt="HTML" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" alt="CSS" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" />    
 </div>
 
 ###
