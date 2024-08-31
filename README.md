@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Álvaro from Petrolina - PE (Brazil)<br><br>- 🔭 I’m working as Fullstack Developer at Inova Tech Jr.<br>- 📚 I'm currently learning JavaScript and TypeScript<br>- ⚡ In my free time I enjoy watching movies (specially drama, thriller and horror ones) and playing games in general</p>
+<p align="left">I'm Álvaro from Petrolina - PE (Brazil)<br><br>- 🔭 I’m working as Fullstack Developer at Inova Tech Jr.<br>- 📚 I'm currently learning Machine Learning and Deep Learning<br>- ⚡ In my free time I enjoy watching movies (specially drama, thriller and horror ones) and playing games in general</p>
 
 ###
 
