@@ -20,6 +20,8 @@
 
 ###
 <div align="left">
+  <a href="https://www.python.org/" alt="Python" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
+  <a href="https://www.r-project.org/" alt="R" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="40" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" alt="JavaScript" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
   <a href="https://www.typescriptlang.org/" alt="TypeScript" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
   <a href="https://nodejs.org/en" alt="Node.js" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
